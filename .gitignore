@@ -28,3 +28,5 @@ hs_err_pid*
 *.xml
 *.mf
 *.properties
+/001-Print/nbproject/private/
+/001-Print/build/
