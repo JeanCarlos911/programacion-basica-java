@@ -8,6 +8,6 @@ Repositorio destinado al aprendizaje de la programación básica con java. Conti
 
 ## Notas adicionales
 - Este repositorio tiene licencia de código abierto, podrá usarlo para cualquier fin (estudio y práctica, enseñanza, guía, etc.)
-- Si desea apoyar/colaborar con este repositorio, cualquier idea, sugerencia, correción será bienvenida, para este fin se disponen el sistema de Pull request.
+- Si desea apoyar/colaborar con este repositorio, cualquier idea, sugerencia, correción será bienvenida, para este fin se dispone el sistema de Pull request.
 
 ### ¡Gracias!
