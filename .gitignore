@@ -23,3 +23,8 @@
 hs_err_pid*
 /002-Scanner/nbproject/private/
 /002-Scanner/build/
+
+# netbeans files
+*.xml
+*.mf
+*.properties
