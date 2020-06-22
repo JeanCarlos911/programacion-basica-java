@@ -30,3 +30,5 @@ hs_err_pid*
 *.properties
 /001-Print/nbproject/private/
 /001-Print/build/
+/003-Operaciones_Basicas/nbproject/private/
+/003-Operaciones_Basicas/build/
