@@ -30,3 +30,5 @@ hs_err_pid*
 *.properties
 *.netbeans_update_resources
 *.netbeans_automatic_build
+/014-Empleado/nbproject/private/
+/014-Empleado/build/
