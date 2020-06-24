@@ -17,7 +17,11 @@ public class Empleado {
     }
     
     public void setSalarioMensual(double salario){
-        this.salarioMensual = salario;
+        if(salario <0){
+            this.salarioMensual = 0.0;
+        }else{
+            this.salarioMensual = salario;
+        }
     }
     
     public String getNombre(){
