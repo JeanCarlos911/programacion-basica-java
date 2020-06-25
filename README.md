@@ -3,7 +3,7 @@ Repositorio destinado al aprendizaje de la programación básica con java. Conti
 
 ## ¿Dónde están los ejercicios y sus posibles soluciones?
 - Los ejercicios propuestos están clasificados por dificultad, se pueden encontrar en la pestaña ```Wiki``` de este repositorio.
-- Las posibles soluciones se encuentran en la pestaña ```<> Code```
+- Las posibles soluciones se encuentran en la pestaña ```<> Code```.
 - Cada ejercicio tiene un número en el ```Wiki```, para encontrar fácilmente su solución en ```<> Code```.
 
 ## Notas adicionales
