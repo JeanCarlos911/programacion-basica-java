@@ -1,6 +1,5 @@
 /*
-La descripcion del ejercicio se encuentra en https://github.com/JeanCarlos911/programacion-basica-java/wiki/F%C3%A1cil 
-ejercicio 010.
+La descripcion del ejercicio se encuentra en la pestaña wiki del repo, en la página 1. easy/ ejercicio 010.
  */
 
 import java.util.Scanner;
