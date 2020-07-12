@@ -4,10 +4,6 @@ import javax.swing.JPanel;
 
 public class Dibujo extends JPanel{
 
-    private void cambiarDireccion() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
-    
     private enum Direccion{ARRIBA, ABAJO, IZQUIERDA, DERECHA};
     private Direccion dir;
     
